@@ -13,4 +13,4 @@
 
 Adicionei também 2(dois) catálogos de fabricantes de ferramentas para auxiliar na consulta dos dados da ferramenta.
 
-📢 Para executar basta salvar o repositório no disco c:/ e executar o arquivo .jar
+📢 Para executar basta salvar o repositório no disco c:/ e executar o arquivo Parametros.jar
