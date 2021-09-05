@@ -3,6 +3,9 @@
 
 #### Programa feito na linguagem Java em 2012 quando cursava a faculdade de Sistema de Informação. Utilizei a IDE netbeans, para calcular parametros de usinagem de torneamento e fresamento a partir de dados do fabricante da ferramenta de corte. 
 
+![image](https://user-images.githubusercontent.com/83677297/132143634-c55f4fff-95e5-4278-aceb-fedeb83cb711.png)
+
+
 ### 📝Com este programa é possível calcular:
 
 - Velocidade de rotação do fuso(RPM);
