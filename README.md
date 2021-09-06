@@ -16,4 +16,14 @@
 
 Adicionei também 2(dois) catálogos de fabricantes de ferramentas para auxiliar na consulta dos dados da ferramenta.
 
-📢 Para executar basta salvar o repositório no disco c:/ e executar o arquivo Parametros.jar
+### 📢 Para executar basta salvar o repositório no disco c:/ e executar o arquivo Parametros.jar
+
+### 🤝 Contribuindo
+Caso tenha interesse contribua com este repositório.
+Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
+
+### 🔔Lembrete
+
+⭐️ Star o projeto
+
+🐛 Encontrar e relatar issues
