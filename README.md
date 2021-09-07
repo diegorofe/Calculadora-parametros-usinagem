@@ -1,4 +1,4 @@
-## Software para calcula parametros de usinagem (Torneamento e fresagem)
+## Software para calcular parametros de usinagem (Torneamento e fresagem)
 
 
 #### Programa feito na linguagem Java em 2012 quando cursava a faculdade de Sistema de Informação. Utilizei a IDE netbeans, para calcular parametros de usinagem de torneamento e fresamento a partir de dados do fabricante da ferramenta de corte. 
